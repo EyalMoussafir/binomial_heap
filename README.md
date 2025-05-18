@@ -14,7 +14,7 @@ Supports the following operations (all methods return integers only when noted):
 
 - **Find Minimum**  
   `find_min()`  
-  Return the node with the smallest key, or `None` if the heap is empty.
+  Return the node with the smallest key, or `null` if the heap is empty.
 
 - **Delete Minimum**  
   `delete_min()`  
@@ -34,4 +34,4 @@ Supports the following operations (all methods return integers only when noted):
 
 - **Size**  
   `size()`  
-  Return the total number of elements currently
+  Return the total number of nodes.
